@@ -10,4 +10,8 @@
     <string name="id_do_usu_rio">Id do usuário</string>
     <string name="senha">Senha</string>
     <string name="logar">Logar</string>
+    <string name="nome">Nome</string>
+    <string name="senha_cadastro">Senha</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="cadastrar">Cadastrar</string>
 </resources>
